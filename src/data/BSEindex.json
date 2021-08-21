@@ -1,0 +1,206 @@
+﻿[
+  {
+    "INDEX": "BSE 100",
+    "CODE": "BSE100"
+  },
+  {
+    "INDEX": "BSE 200",
+    "CODE": "BSE200"
+  },
+  {
+    "INDEX": "BSE 500 Shariah",
+    "CODE": "SPBSE5S"
+  },
+  {
+    "INDEX": "BSE 500",
+    "CODE": "BSE500"
+  },
+  {
+    "INDEX": "BSE AllCap",
+    "CODE": "SPBSAIP"
+  },
+  {
+    "INDEX": "BSE AUTO",
+    "CODE": "SI1900"
+  },
+  {
+    "INDEX": "BSE BANKEX",
+    "CODE": "SIBANK"
+  },
+  {
+    "INDEX": "BSE Basic Materials",
+    "CODE": "SPBSBMIP"
+  },
+  {
+    "INDEX": "BSE CAPITAL GOODS",
+    "CODE": "SI0200"
+  },
+  {
+    "INDEX": "BSE CARBONEX",
+    "CODE": "CARBON"
+  },
+  {
+    "INDEX": "BSE Consumer Discretionary Goods &amp; Services",
+    "CODE": "SPBSCDIP"
+  },
+  {
+    "INDEX": "BSE CONSUMER DURABLES",
+    "CODE": "SI0400"
+  },
+  {
+    "INDEX": "BSE CPSE",
+    "CODE": "CPSE"
+  },
+  {
+    "INDEX": "BSE Dividend Stability Index",
+    "CODE": "SPBSDSIP"
+  },
+  {
+    "INDEX": "BSE DOLLEX 100",
+    "CODE": "DOL100"
+  },
+  {
+    "INDEX": "BSE DOLLEX 200",
+    "CODE": "DOLLEX"
+  },
+  {
+    "INDEX": "BSE DOLLEX 30",
+    "CODE": "DOLL30"
+  },
+  {
+    "INDEX": "BSE Energy",
+    "CODE": "SPBSENIP"
+  },
+  {
+    "INDEX": "BSE Enhanced Value Index",
+    "CODE": "SPBSEVIP"
+  },
+  {
+    "INDEX": "BSE Fast Moving Consumer Goods",
+    "CODE": "SI0600"
+  },
+  {
+    "INDEX": "BSE Finance",
+    "CODE": "SPBSFIIP"
+  },
+  {
+    "INDEX": "BSE GREENEX",
+    "CODE": "GREENX"
+  },
+  {
+    "INDEX": "BSE Healthcare",
+    "CODE": "SI0800"
+  },
+  {
+    "INDEX": "BSE India 10 Year Sovereign Bond",
+    "CODE": "SPBDISBT"
+  },
+  {
+    "INDEX": "BSE India Infrastructure Index",
+    "CODE": "INFRA"
+  },
+  {
+    "INDEX": "BSE India Manufacturing Index",
+    "CODE": "SPBIMIP"
+  },
+  {
+    "INDEX": "BSE Industrials",
+    "CODE": "SPBSIDIP"
+  },
+  {
+    "INDEX": "BSE Information Technology",
+    "CODE": "SI1000"
+  },
+  {
+    "INDEX": "BSE IPO",
+    "CODE": "IPO"
+  },
+  {
+    "INDEX": "BSE LargeCap",
+    "CODE": "SPBSLIP"
+  },
+  {
+    "INDEX": "BSE LargeMidCap",
+    "CODE": "SPBSLMIP"
+  },
+  {
+    "INDEX": "BSE Low Volatility Index",
+    "CODE": "SPBSLVIP"
+  },
+  {
+    "INDEX": "BSE METAL",
+    "CODE": "SI1200"
+  },
+  {
+    "INDEX": "BSE MidCap Select Index",
+    "CODE": "SPBMDSIP"
+  },
+  {
+    "INDEX": "BSE MidCap",
+    "CODE": "BSEMID"
+  },
+  {
+    "INDEX": "BSE MidSmallCap",
+    "CODE": "SPBSMSIP"
+  },
+  {
+    "INDEX": "BSE Momentum Index",
+    "CODE": "SPBSMOIP"
+  },
+  {
+    "INDEX": "BSE OIL &amp; GAS",
+    "CODE": "SI1400"
+  },
+  {
+    "INDEX": "BSE POWER",
+    "CODE": "SIPOWE"
+  },
+  {
+    "INDEX": "BSE PSU",
+    "CODE": "SIBPSU"
+  },
+  {
+    "INDEX": "BSE Quality Index",
+    "CODE": "SPBSQIP"
+  },
+  {
+    "INDEX": "BSE REALTY",
+    "CODE": "SIREAL"
+  },
+  {
+    "INDEX": "BSE SENSEX Dynamic Gold Hedged Index",
+    "CODE": "SPBSDGDH"
+  },
+  {
+    "INDEX": "BSE SENSEX Gold Hedged Index",
+    "CODE": "SPBSGLDH"
+  },
+  {
+    "INDEX": "BSE SENSEX",
+    "CODE": "SENSEX"
+  },
+  {
+    "INDEX": "BSE SmallCap Select Index",
+    "CODE": "SPBSSSIP"
+  },
+  {
+    "INDEX": "BSE SmallCap",
+    "CODE": "BSESML"
+  },
+  {
+    "INDEX": "BSE SME IPO",
+    "CODE": "SMEIPO"
+  },
+  {
+    "INDEX": "BSE TECK",
+    "CODE": "SIBTEC"
+  },
+  {
+    "INDEX": "BSE Telecom",
+    "CODE": "SPBSTLIP"
+  },
+  {
+    "INDEX": "BSE Utilities",
+    "CODE": "SPBSUTIP"
+  }
+]

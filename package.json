@@ -1,0 +1,37 @@
+{
+  "name": "stock-market-analysis-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "node-cron": "^2.0.3",
+    "nodemon": "^2.0.5"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config ./src/app.js dotenv_config_path=config/.env",
+    "fmt": "npx prettier --write ./src",
+    "dev": "nodemon -r dotenv/config ./src/app.js dotenv_config_path=config/.env js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashritha070/Stock-Market-Analysis-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashritha070/Stock-Market-Analysis-Backend/issues"
+  },
+  "homepage": "https://github.com/aashritha070/Stock-Market-Analysis-Backend#readme"
+}
