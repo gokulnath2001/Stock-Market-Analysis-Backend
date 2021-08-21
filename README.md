@@ -17,7 +17,7 @@ Server makes call from the Quandl API everyday at 22hrs IST.
 ### Setting up Dev
 
 ```
-git clone https://github.com/aashritha070/Stock-Market-Analysis-Backend
+git clone https://github.com/gokulnath2001/Stock-Market-Analysis-Backend
 cd stock-market-analysis-backend
 npm install
 mkdir config
